@@ -25,5 +25,5 @@ And a random dm code if you want to try an non complient code
 
 
 
-Code scannig thanks to https://github.com/yuriy-budiyev/code-scanner
+Code scanning thanks to https://github.com/yuriy-budiyev/code-scanner
 
