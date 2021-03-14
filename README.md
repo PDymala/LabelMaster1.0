@@ -11,13 +11,13 @@ For generating a database with numbers/urls and it's hashes, check other applica
 That database has to be converted to 2D codes and printed with label software e.g. https://www.nicelabel.com/ , https://zebra.com or any other.
 
 
-![Image](lm.png)
+<img src="lm.png" width="400" />
 <BR><BR>
 A sample label that is genuine:
-<img src="lm1_genuine_label.png" width="100" />
+<img src="lm1_genuine_label.png" width="150" />
 <BR><BR>
 A sample label that is counterfeit:
-<img src="lm1_false_label.png" width="100" />
+<img src="lm1_false_label.png" width="150" />
 
 
 
